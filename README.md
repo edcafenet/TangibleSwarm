@@ -26,4 +26,4 @@ This repository has two working models represented as repo branches:
 
 # Additional information:
 
-Tangible Swarm is a tool developed to complement the [Blockchain: a new framework for swarm robotic systems](https://www.media.mit.edu/projects/blockchain-a-new-framework-for-swarm-robotic-systems/overview/) research project. Detailed information about the system setup as well as configuration parameters can be found in the supplementary material of the paper titled ["Secure and secret cooperation in robot swarms"](https://robotics.sciencemag.org/content/6/56/abf1538).
+Tangible Swarm is a tool developed to complement the [Blockchain: a new framework for swarm robotic systems](https://www.media.mit.edu/projects/blockchain-a-new-framework-for-swarm-robotic-systems/overview/) research project. Detailed information about the system setup as well as configuration parameters can be found in the supplementary material of the paper titled ["Secure and secret cooperation in robot swarms"](https://robotics.sciencemag.org/content/6/56/eabf1538).
